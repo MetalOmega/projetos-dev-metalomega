@@ -29,7 +29,7 @@ p {
 }
 
 nav {
-    background-color: #06da02;
+    background-color: #0602da;
 }
 
 nav ul {
@@ -42,13 +42,13 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #191919;
+    color: #f2f2f2;
     display: inline-block;
     padding: 10px;
 }
 
 nav ul li a:hover {
-    background-color: #111;
+    background-color: #ff0000;
     transition: all 1.5s;
 }
 
@@ -76,8 +76,8 @@ section {
 
 #home a {
     padding: 5px;
-    background-color: #06da02;
-    color: #191919;
+    background-color: #0602da;
+    color: #f2f2f2;
     float: right;
     text-decoration: none;
 }
@@ -116,7 +116,7 @@ table tbody tr {
 }
 
 table tbody tr:nth-child(even) {
-    background-color: #1855e4;
+    background-color: #5678c8;
 }
 
 table tbody tr:hover {
@@ -173,7 +173,7 @@ table tfoot td:last-child {
 }
 
 .btn:hover {
-    background-color: #111;
+    background-color: #ff0000;
 }
 
 .btn:active {
@@ -200,9 +200,9 @@ table tfoot td:last-child {
 footer {
 	width: 100%;
 	min-height: 30px;
-	background-color: #06da02;
+	background-color: #0602da;
 	margin-top: 4rem;
-	color: #191919;
+	color: #f2f2f2;
 	letter-spacing: 1.5px;
 }
 
@@ -219,7 +219,7 @@ footer {
 	padding-top: 2rem;
 }
 footer a {
-	color: #191919;
+	color: #f2f2f2;
 	text-decoration: none;
 }
 .footer-info {

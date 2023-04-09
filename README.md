@@ -1,4 +1,4 @@
-# Projeto Portal Metal Omega
+# Projeto Metal Omega Dev
 ## HTML | CSS
 
 Este projeto está em desenvolvimento. Início 08-04-2023. Mentoria com Pedro Marins CSV Turma 25A
@@ -8,18 +8,18 @@ Este projeto está em desenvolvimento. Início 08-04-2023. Mentoria com Pedro Ma
 A página pode ser visualizada nos seguintes endereços
 
 1) GitHub Pages
-    * https://metalomega.github.io/projeto-portal-metalomega/.
+    * https://metalomega.github.io/projeto-dev-metalomega/
     
 2) Surge.SH
-    * https://portalmetalomega.surge.sh/.
+    * https://projetosdevmetalomega.surge.sh/
     
+3) Redes sociais #metalomegadev
 
 ## Descrição
 
-* Foi utilizado conhecimento prévio de um projeto iniciado em 2020 em um bootcamp que eu participei, revi o conteúdo para dar prosseguimento nesta mentoria e assim poder prosseguir deste ponto de partida.
-Foi utilizado a linguagem HTML e CSS até o momento.
+* Foi utilizado neste projeto HTML | CSS.
 
-* Este projeto terá continuidade e aplicação de complemento com as tecnologias JavaScript e PHP.
+* Este projeto terá continuidade e aplicação de complemento com as tecnologias...
 
 
 ## Venha para comunidade Dev do Discord:
