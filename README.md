@@ -8,7 +8,7 @@ Este projeto está em desenvolvimento. Início 08-04-2023. Mentoria com Pedro Ma
 A página pode ser visualizada nos seguintes endereços
 
 1) GitHub Pages
-    * https://metalomega.github.io/projeto-dev-metalomega/
+    * https://metalomega.github.io/projetos-dev-metalomega/
     
 2) Surge.SH
     * https://projetosdevmetalomega.surge.sh/
