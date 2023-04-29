@@ -29,7 +29,7 @@
 # Projeto Metal Omega Dev
 ## HTML | CSS
 
-Este projeto está em desenvolvimento. Início 08-04-2023. Mentoria com Pedro Marins CSV Turma 25A
+Projeto em desenvolvimento. Início 08-04-2023. Mentoria com Pedro Marins CSV Turma 25A
 
 ## Como visualizar a página?
 
@@ -41,18 +41,18 @@ A página pode ser visualizada nos seguintes endereços
 2) Surge.SH
     * https://projetosdevmetalomega.surge.sh/
     
-3) Redes sociais #metalomegadev
+3) Redes sociais #metalomegadev | @metalomegadev
 
 ## Descrição
 
-* Foi utilizado neste projeto HTML | CSS.
+* Tecnologias utilizadas nos projetos: HTML | CSS | JavaScript
 
-* Este projeto terá continuidade e aplicação de complemento com as tecnologias...
+## Descrição
+* Contato: +55 (61) 99861-0007 | (61) 99904-4976
 
+## Faça parte da comunidade Dev no Discord:
 
-## Venha para comunidade Dev do Discord:
-
-* https://discord.gg/rZb2evQa
+* https://discord.gg/6wcAYmYCky
 
 * contato:
 * metalomega@gmail.com
