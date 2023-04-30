@@ -27,7 +27,7 @@
   -------------------------------------------------------------------------------------------------
 
 # Projeto Metal Omega Dev
-## HTML | CSS
+## HTML | CSS | JavaScript
 
 Projeto em desenvolvimento. Início 08-04-2023. Mentoria com Pedro Marins CSV Turma 25A
 
